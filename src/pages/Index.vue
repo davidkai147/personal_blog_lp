@@ -44,22 +44,31 @@ export default {
     title: "Cong Do",
     meta: [
       {
-        name: "description",
+        name: "keywords",
         content:
-          "fullstack developer, web developer, mobile developer, vuejs, laravel, flutter, android, ecommerce",
+          "congdo, công đỗ, CongDo, Công Đỗ, Cong Do, fullstack developer, web developer, mobile developer, vuejs, laravel, flutter, android, ecommerce",
+      },
+      {
+        property: "title",
+        content: "Cong Do - A passionate full-stack web and mobile developer",
       },
       {
         property: "og:title",
-        content: "Cong Do | A passionate full-stack web & mobile developer",
+        content: "Cong Do - A passionate full-stack web and mobile developer",
       },
       {
         name: "twitter:card",
         content: "summary",
       },
       {
+        property: "description",
+        cotent:
+          "Hi! I'm Cong Do. A passionate full-stack web and mobile developer with a customer satisfaction mindset who can turn ideas into great projects.",
+      },
+      {
         property: "og:description",
         cotent:
-          "fullstack developer, web developer, mobile developer, vuejs, laravel, flutter, android, ecommerce",
+          "Hi! I'm Cong Do. A passionate full-stack web and mobile developer with a customer satisfaction mindset who can turn ideas into great projects.",
       },
       {
         property: "og:image",
