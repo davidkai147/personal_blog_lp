@@ -62,12 +62,12 @@ export default {
       },
       {
         property: "description",
-        cotent:
+        content:
           "Hi! I'm Cong Do. A passionate full-stack web and mobile developer with a customer satisfaction mindset who can turn ideas into great projects.",
       },
       {
         property: "og:description",
-        cotent:
+        content:
           "Hi! I'm Cong Do. A passionate full-stack web and mobile developer with a customer satisfaction mindset who can turn ideas into great projects.",
       },
       {
